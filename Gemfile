@@ -11,6 +11,8 @@ end
 
 gem 'public-suffix', '~> 1.4.6'
 
+gem "heroku"
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
